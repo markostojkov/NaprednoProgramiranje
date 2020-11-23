@@ -1,7 +1,9 @@
+package Labs1;
+
 import java.util.*;
 import java.util.stream.IntStream;
 
-public class RomanConverterTest {
+class RomanConverterTest {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

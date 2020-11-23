@@ -5,7 +5,7 @@ import java.util.*;
 import java.util.stream.IntStream;
 
 
-public class IntegerArrayTester {
+class IntegerArrayTester {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
